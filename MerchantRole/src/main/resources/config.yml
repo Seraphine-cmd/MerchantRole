@@ -1,0 +1,14 @@
+name: MerchantRole
+author: seraphine
+version: 1.0.0
+main: com.bap80.merchantrole.MerchantRolePlugin
+depend: [WorldGuard, LuckPerms]
+softdepend: [QuickShop-Hikari]
+commands:
+  merchantprogress:
+    description: Shows your Merchant I progress
+    usage: /merchantprogress
+    permission: merchantrole.progress
+permissions:
+  merchantrole.progress:
+    default: true

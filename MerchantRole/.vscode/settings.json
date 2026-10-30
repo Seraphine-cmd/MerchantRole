@@ -1,0 +1,6 @@
+{
+  "java.configuration.runtimes": [
+    { "name": "JavaSE-25", "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-25.0.5.8-hotspot", "default": true }
+  ],
+  "java.compile.nullAnalysis.mode": "automatic"
+}

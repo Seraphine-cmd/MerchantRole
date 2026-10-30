@@ -1,0 +1,11 @@
+﻿# Role/group to grant after task completion
+luckperms-group: merchant
+
+# Only purchases from shops located in this WorldGuard region count
+worldguard-region: market
+
+# Number of distinct customers who successfully purchased from the player
+required-distinct-customers: 5
+
+# Emerald blocks required in the player's inventory (not chests/shulkers)
+emerald-blocks: 64
